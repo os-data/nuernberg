@@ -83,7 +83,7 @@
     {
       "name": "nbg-utf",
       "format": "csv",
-      "path": "nbg-utf.csv",
+      "path": "https://storage.openspending.org/nuernberg/nbg-utf.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 8828365,
       "dialect": {
